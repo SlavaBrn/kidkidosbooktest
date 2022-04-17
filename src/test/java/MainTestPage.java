@@ -60,7 +60,7 @@ public class MainTestPage extends UseCaseBase {
 
     @Test
     public void openGalleryPage() {
-        Gallery gallery = mainPag.openGalleryPage();
+        Gallery gallery = mainPage.openGalleryPage();
         logger.info("main page Gallery load test");
         boolean isLoad = gallery.isHeaderVisible();
         assertTrue(isLoad);
