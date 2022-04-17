@@ -38,7 +38,7 @@ public class MainTestPage extends UseCaseBase {
     }
 
     @Test
-    public void openContactUsPag() {
+    public void openContactUsPage() {
         ContactUsPage contactUsPage = mainPage.openContactUsTab1();
         boolean isLoad = contactUsPage.isPageTitleVisible();
         assertTrue(isLoad);
