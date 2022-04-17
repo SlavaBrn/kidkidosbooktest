@@ -1,43 +1,43 @@
-2022-04-16 17:28:07.612 [main] DEBUG io.github.bonigarcia.wdm.Preferences - Preference chrome=100 (valid until 2022-04-17 16:36:37)
-2022-04-16 17:28:07.615 [main] DEBUG io.github.bonigarcia.wdm.Preferences - Preference chrome100=100.0.4896.60 (valid until 2022-04-17 16:36:37)
-2022-04-16 17:28:07.616 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 100.0.4896.60 (since Google Chrome 100 is installed in your machine)
-2022-04-16 17:28:07.623 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 100.0.4896.60 found in cache
-2022-04-16 17:28:07.624 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\slavo\.m2\repository\webdriver\chromedriver\win32\100.0.4896.60\chromedriver.exe
-2022-04-16 17:28:10.244 [main] INFO  Pages.BasePage - click element with xpath//a[text()='Contact us']
-2022-04-16 17:28:11.506 [main] INFO  Pages.BasePage - click element with xpath//a[text()='Français']
-2022-04-16 17:28:16.081 [main] INFO  Pages.BasePage - click element with xpath//a[text()='Español']
-2022-04-16 17:28:17.394 [main] INFO  Pages.BasePage - click element with xpath//a[@aria-has-popup = 'true']
-2022-04-16 17:28:17.579 [main] INFO  Pages.BasePage - click element with xpath//a[text() = 'Croatian - Hrvatski']
-2022-04-16 17:28:18.754 [main] INFO  Pages.BasePage - click element with xpath//a[@aria-has-popup = 'true']
-2022-04-16 17:28:19.351 [main] INFO  Pages.BasePage - click element with xpath//a[text()='中文']
-2022-04-16 17:28:20.604 [main] INFO  Pages.BasePage - click element with xpath//*[@class = 'cbb-currency-flag']
-2022-04-16 17:28:21.238 [main] INFO  Pages.BasePage - click element with xpath//a[text()='Gallery']
-2022-04-16 17:28:21.677 [main] INFO  MainTestPage - main page Gallery load test
-2022-04-16 17:28:22.925 [main] INFO  Pages.BasePage - click element with xpath//a[@aria-controls='SiteNavLabel-resources']
-2022-04-16 17:28:22.993 [main] INFO  Pages.BasePage - click element with xpath//a[text()='Videos']
-2022-04-16 17:28:26.424 [main] INFO  Pages.BasePage - click element with xpath//a[@aria-has-popup = 'true']
-2022-04-16 17:28:26.494 [main] INFO  Pages.BasePage - click element with xpath//a[text() = 'Afrikaans']
-2022-04-16 17:28:27.794 [main] INFO  Pages.BasePage - click element with xpath//a[text()='Blog']
-2022-04-16 17:28:28.951 [main] INFO  Pages.BasePage - click element with xpath//a[@aria-controls = 'SiteNavLabel-ebooks-by-language']
-2022-04-16 17:28:29.032 [main] INFO  Pages.BasePage - click element with xpath//a[text()='Albanian- Shqip']
-2022-04-16 17:28:29.733 [main] DEBUG io.github.bonigarcia.wdm.Preferences - Preference chrome=100 (valid until 2022-04-17 16:36:37)
-2022-04-16 17:28:29.735 [main] DEBUG io.github.bonigarcia.wdm.Preferences - Preference chrome100=100.0.4896.60 (valid until 2022-04-17 16:36:37)
-2022-04-16 17:28:29.735 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 100.0.4896.60 (since Google Chrome 100 is installed in your machine)
-2022-04-16 17:28:29.742 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 100.0.4896.60 found in cache
-2022-04-16 17:28:29.746 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\slavo\.m2\repository\webdriver\chromedriver\win32\100.0.4896.60\chromedriver.exe
-2022-04-16 17:28:30.585 [main] INFO  Pages.BasePage - click element with xpath//*[@class = 'icon icon-login']
-2022-04-16 17:28:37.808 [main] DEBUG io.github.bonigarcia.wdm.Preferences - Preference chrome=100 (valid until 2022-04-17 16:36:37)
-2022-04-16 17:28:37.813 [main] DEBUG io.github.bonigarcia.wdm.Preferences - Preference chrome100=100.0.4896.60 (valid until 2022-04-17 16:36:37)
-2022-04-16 17:28:37.814 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 100.0.4896.60 (since Google Chrome 100 is installed in your machine)
-2022-04-16 17:28:37.822 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 100.0.4896.60 found in cache
-2022-04-16 17:28:37.823 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\slavo\.m2\repository\webdriver\chromedriver\win32\100.0.4896.60\chromedriver.exe
-2022-04-16 17:28:39.799 [main] INFO  Pages.BasePage - click element with xpath//button[@class='_submit']
-2022-04-16 17:28:40.516 [main] INFO  Pages.BasePage - click element with xpath//button[@class='_submit']
-2022-04-16 17:28:40.959 [main] INFO  Pages.BasePage - click element with xpath//button[@class='_submit']
-2022-04-16 17:28:41.463 [main] INFO  Pages.BasePage - click element with xpath//button[@class='_submit']
-2022-04-16 17:28:41.509 [main] INFO  Pages.ContactUsPage - check if name field error message is appears when char required
-2022-04-16 17:28:41.902 [main] INFO  Pages.BasePage - click element with xpath//button[@class='_submit']
-2022-04-16 17:28:41.951 [main] INFO  Pages.ContactUsPage - check if name field error message is appears when char required
-2022-04-16 17:28:42.439 [main] INFO  Pages.BasePage - click element with xpath//button[@class='_submit']
-2022-04-16 17:28:42.501 [main] INFO  Pages.ContactUsPage - check if name field error message is appears when char required
-2022-04-16 17:28:43.521 [main] INFO  Pages.BasePage - click element with xpath//button[@class='_submit']
+2022-04-16 19:08:58.230 [main] DEBUG io.github.bonigarcia.wdm.Preferences - Preference chrome=100 (valid until 2022-04-17 16:36:37)
+2022-04-16 19:08:58.233 [main] DEBUG io.github.bonigarcia.wdm.Preferences - Preference chrome100=100.0.4896.60 (valid until 2022-04-17 16:36:37)
+2022-04-16 19:08:58.233 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 100.0.4896.60 (since Google Chrome 100 is installed in your machine)
+2022-04-16 19:08:58.245 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 100.0.4896.60 found in cache
+2022-04-16 19:08:58.245 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\slavo\.m2\repository\webdriver\chromedriver\win32\100.0.4896.60\chromedriver.exe
+2022-04-16 19:09:01.749 [main] INFO  Pages.BasePage - click element with xpath//a[text()='Contact us']
+2022-04-16 19:09:03.363 [main] INFO  Pages.BasePage - click element with xpath//a[text()='Français']
+2022-04-16 19:09:06.296 [main] INFO  Pages.BasePage - click element with xpath//a[text()='Español']
+2022-04-16 19:09:07.996 [main] INFO  Pages.BasePage - click element with xpath//a[@aria-has-popup = 'true']
+2022-04-16 19:09:08.155 [main] INFO  Pages.BasePage - click element with xpath//a[text() = 'Croatian - Hrvatski']
+2022-04-16 19:09:09.983 [main] INFO  Pages.BasePage - click element with xpath//a[@aria-has-popup = 'true']
+2022-04-16 19:09:10.702 [main] INFO  Pages.BasePage - click element with xpath//a[text()='中文']
+2022-04-16 19:09:12.478 [main] INFO  Pages.BasePage - click element with xpath//*[@class = 'cbb-currency-flag']
+2022-04-16 19:09:13.223 [main] INFO  Pages.BasePage - click element with xpath//a[text()='Gallery']
+2022-04-16 19:09:13.759 [main] INFO  MainTestPage - main page Gallery load test
+2022-04-16 19:09:14.926 [main] INFO  Pages.BasePage - click element with xpath//a[@aria-controls='SiteNavLabel-resources']
+2022-04-16 19:09:14.990 [main] INFO  Pages.BasePage - click element with xpath//a[text()='Videos']
+2022-04-16 19:09:18.991 [main] INFO  Pages.BasePage - click element with xpath//a[@aria-has-popup = 'true']
+2022-04-16 19:09:19.053 [main] INFO  Pages.BasePage - click element with xpath//a[text() = 'Afrikaans']
+2022-04-16 19:09:20.512 [main] INFO  Pages.BasePage - click element with xpath//a[text()='Blog']
+2022-04-16 19:09:21.818 [main] INFO  Pages.BasePage - click element with xpath//a[@aria-controls = 'SiteNavLabel-ebooks-by-language']
+2022-04-16 19:09:21.929 [main] INFO  Pages.BasePage - click element with xpath//a[text()='Albanian- Shqip']
+2022-04-16 19:09:26.874 [main] DEBUG io.github.bonigarcia.wdm.Preferences - Preference chrome=100 (valid until 2022-04-17 16:36:37)
+2022-04-16 19:09:26.875 [main] DEBUG io.github.bonigarcia.wdm.Preferences - Preference chrome100=100.0.4896.60 (valid until 2022-04-17 16:36:37)
+2022-04-16 19:09:26.875 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 100.0.4896.60 (since Google Chrome 100 is installed in your machine)
+2022-04-16 19:09:26.880 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 100.0.4896.60 found in cache
+2022-04-16 19:09:26.880 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\slavo\.m2\repository\webdriver\chromedriver\win32\100.0.4896.60\chromedriver.exe
+2022-04-16 19:09:27.609 [main] INFO  Pages.BasePage - click element with xpath//*[@class = 'icon icon-login']
+2022-04-16 19:09:34.796 [main] DEBUG io.github.bonigarcia.wdm.Preferences - Preference chrome=100 (valid until 2022-04-17 16:36:37)
+2022-04-16 19:09:34.797 [main] DEBUG io.github.bonigarcia.wdm.Preferences - Preference chrome100=100.0.4896.60 (valid until 2022-04-17 16:36:37)
+2022-04-16 19:09:34.798 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 100.0.4896.60 (since Google Chrome 100 is installed in your machine)
+2022-04-16 19:09:34.806 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 100.0.4896.60 found in cache
+2022-04-16 19:09:34.807 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\slavo\.m2\repository\webdriver\chromedriver\win32\100.0.4896.60\chromedriver.exe
+2022-04-16 19:09:36.917 [main] INFO  Pages.BasePage - click element with xpath//button[@class='_submit']
+2022-04-16 19:09:37.608 [main] INFO  Pages.BasePage - click element with xpath//button[@class='_submit']
+2022-04-16 19:09:38.030 [main] INFO  Pages.BasePage - click element with xpath//button[@class='_submit']
+2022-04-16 19:09:38.532 [main] INFO  Pages.BasePage - click element with xpath//button[@class='_submit']
+2022-04-16 19:09:38.579 [main] INFO  Pages.ContactUsPage - check if name field error message is appears when char required
+2022-04-16 19:09:39.003 [main] INFO  Pages.BasePage - click element with xpath//button[@class='_submit']
+2022-04-16 19:09:39.052 [main] INFO  Pages.ContactUsPage - check if name field error message is appears when char required
+2022-04-16 19:09:39.474 [main] INFO  Pages.BasePage - click element with xpath//button[@class='_submit']
+2022-04-16 19:09:39.522 [main] INFO  Pages.ContactUsPage - check if name field error message is appears when char required
+2022-04-16 19:09:40.497 [main] INFO  Pages.BasePage - click element with xpath//button[@class='_submit']

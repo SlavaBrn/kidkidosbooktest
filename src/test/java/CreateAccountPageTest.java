@@ -20,5 +20,5 @@ public class CreateAccountPageTest extends UseCaseBase {
 
 //    @ParameterizedTest
 //    @ValueSource(strings = {CreateAccountPage.IncompleteMail_Field_Text,CreateAccountPage.NameRussian_Field_Text,CreateAccountPage.specialChar_Field_Text})
-//       если у меня тест состоит только с параметразд то что я не смогу ничего сделать?потому что он мнпе выдает ошибку что нельзя анноттировать тут
+//       если у меня тест состоит тоько с параметразд то что я не смогу ничего сделать?потому что он мнпе выдает ошибку что нельзя анноттировать тут
 }
